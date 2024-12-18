@@ -1,6 +1,6 @@
 # Welcome to My GitHub! 👩‍💻🌱
 
-Hi there! I'm Shamsiyatu Murtala, a passionate Data Analyst with a background in Agriculture Technology (Biotechnology major) and a strong interest in leveraging data to drive impactful solutions in the food and agriculture sector.
+Hi there! I'm Shamsiyatu Murtala, a passionate Food safety and Quality Education advocate and  Data Analyst with a background in Agriculture Technology (Biotechnology major) and a strong interest in leveraging data to drive impactful solutions in the food and agriculture sector.
 
 About Me
 
